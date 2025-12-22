@@ -45,7 +45,7 @@ Instead of writing a single playbook, I prefer to split the process into three d
     
 * Compare with Pre-check
     
-    > *💡* ***Why use AAP for this?*** *By leveraging* ***Ansible Automation Platform (AAP)****, we can wrap these three distinct phases into a single* ***Workflow Template****. This allows us to use the* ***Workflow Visualizer*** *to drag-and-drop logic, add approval nodes easily, and—most importantly—if one phase fails (e.g., Staging), we can fix it and retry just that node without re-running the whole process.*
+    > *💡* ***Why use AAP for this?*** *By leveraging* ***Ansible Automation Platform (AAP)****, we can wrap these three distinct phases into a single* ***Workflow Template***\*. This allows us to use the\* ***Workflow Visualizer*** *to drag-and-drop logic, add approval nodes easily, and—most importantly—if one phase fails (e.g., Staging), we can fix it and retry just that node without re-running the whole process.*
     
 
 ## The Orchestration
@@ -194,7 +194,7 @@ Finally, the post-check comparison confirmed the upgrade was successful with **z
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1766395522699/05bdaefe-774d-4ffd-a61a-99332883756c.png align="center")
 
-### Conclusion
+## Conclusion
 
 By automating this workflow, we’ve transformed a high-risk, tedious night shift task into a predictable, click-of-a-button process. Not only does this save time, but it also ensures consistency across hundreds of devices—something manual typing can never guarantee.
 
