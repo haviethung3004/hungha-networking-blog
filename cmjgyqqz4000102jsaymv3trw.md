@@ -69,7 +69,7 @@ For this demonstration, I utilized a **Cisco C8000v** virtual router running **I
 
 > Additionally, to keep the lab simple, I configured the **AAP controller itself** to act as the backend **SCP Server** for hosting and transferring the image files.
 
-Here is the core logic for the **Pre-check** phase. My approach is to capture a full snapshot of the hardware inventory, check each component individually, and transfer the image file from the SCP Server.
+Here is the core logic for the Pre-check phase. My approach is to capture a full snapshot of the hardware inventory and current network state, including the routing table and interface status. I check each component individually and transfer the image file from the SCP Server, saving all these parameters as `extra_vars` to ensure a precise comparison during the post-check phase.
 
 ```yaml
 - name: Upgrade Pre-Check Playbook for Cisco IOS and IOS-XE Devices
