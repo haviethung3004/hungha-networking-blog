@@ -45,7 +45,7 @@ Instead of writing a single playbook, I prefer to split the process into three d
     
 * Compare with Pre-check
     
-    > *💡* ***Why use AAP for this?*** *By leveraging* ***Ansible Automation Platform (AAP)****, we can wrap these three distinct phases into a single* ***Workflow Template***\*. This allows us to use the\* ***Workflow Visualizer*** *to drag-and-drop logic, add approval nodes easily, and—most importantly—if one phase fails (e.g., Staging), we can fix it and retry just that node without re-running the whole process.*
+    > *💡* ***Why use AAP for this?*** *By leveraging* ***Ansible Automation Platform (AAP)****, we can wrap these three distinct phases into a single* ***Workflow Template***. This allows us to use the ***Workflow Visualizer*** *to drag-and-drop logic, add approval nodes easily, and—most importantly—if one phase fails (e.g., Staging), we can fix it and retry just that node without re-running the whole process.*
     
 
 ## The Orchestration
