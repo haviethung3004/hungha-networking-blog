@@ -174,7 +174,7 @@ Note: Remember to replace extra\_vars with your actual lab environment details.
 
 Finally, launch the job, grab a cup of coffee, and watch the automation do the heavy lifting!
 
-### The Outcome
+## The Outcome
 
 After sipping my coffee, I returned to the desk to find the workflow paused exactly where expected: the **Approval Node**.
 
