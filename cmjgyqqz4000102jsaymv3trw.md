@@ -60,7 +60,7 @@ My logic: The “Human-in-the-Loop” Strategy
     
 * **Phase 2 (The Upgrade):** Only triggers after I manually click "Approve". This ensures the reboot happens exactly when I want it
     
-* **Visual Debugging:** If Phase 3 turns red (as seen in my test run), I know instantly that the Post-check failed, without digging through thousands of log lines.
+* **Visual Debugging:** If Phase 3 turns red, I know instantly that the Post-check failed, without digging through thousands of log lines.
     
 
 ## The Implementation
