@@ -5,6 +5,7 @@ seoDescription: "Automate Cisco IOS upgrades with Ansible for efficient, error-f
 datePublished: Mon Dec 22 2025 09:38:08 GMT+0000 (Coordinated Universal Time)
 cuid: cmjgyqqz4000102jsaymv3trw
 slug: automating-cisco-ios-xe-upgrade-ansible
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1766556881784/2554d2bb-0a3d-40f9-8611-2ad6086ab463.png
 tags: tutorial, ansible, networking, cisco, netdevops, network-automation
 
 ---
