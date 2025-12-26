@@ -1,5 +1,5 @@
 ---
-title: "Automating Cisco IOS Upgrades: A Step-by-Step Ansible Guide"
+title: "Automating Cisco IOS Upgrades: A Step-by-Step Ansible Guide (Bundle Mode)"
 seoTitle: "Automate Cisco IOS Upgrade with Ansible Guide"
 seoDescription: "Automate Cisco IOS upgrades with Ansible for efficient, error-free updates across devices. Follow this step-by-step guide"
 datePublished: Mon Dec 22 2025 09:38:08 GMT+0000 (Coordinated Universal Time)
