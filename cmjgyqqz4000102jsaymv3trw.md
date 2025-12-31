@@ -7,7 +7,6 @@ cuid: cmjgyqqz4000102jsaymv3trw
 slug: automating-cisco-os-upgrade-ansible-bundle-mode
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1766722595812/6911a28b-6bda-46b3-93d8-6559ff7657a4.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1766722759877/4531c29d-9674-438e-88b7-a450aeae7cd3.png
-tags: tutorial, ansible, networking, cisco, netdevops, network-automation
 
 ---
 
