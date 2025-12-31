@@ -4,7 +4,7 @@ seoTitle: "Cisco IOS Automation with Ansible Guide"
 seoDescription: "Automate Cisco IOS upgrades with Ansible using Install Mode for modern routers. Step-by-step guide included"
 datePublished: Wed Dec 31 2025 07:04:07 GMT+0000 (Coordinated Universal Time)
 cuid: cmjto7cnb000l02js8xufcg8u
-slug: automating-cisco-os-upgrade-ansible-bundle-mode-1
+slug: automating-cisco-os-upgrade-ansible-install-mode
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1766971368080/768f8d50-557c-49f0-bad1-db8ce6dfa0b9.png
 tags: ansible, cisco, os-upgrades
 
